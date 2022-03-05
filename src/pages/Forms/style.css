@@ -1,0 +1,10 @@
+.form-field {
+    display: flex;
+    justify-content: space-between;
+    width: 60vw;
+}
+
+input, textarea {
+    width: 200px;
+    margin: 10px 0 !important;
+}
