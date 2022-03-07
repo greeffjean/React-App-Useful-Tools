@@ -20,10 +20,10 @@ const Menu = () => {
             </li>
           </ul>
 
-          <div className="col-md-3 text-end">
-            <Link to="/">
+          <div>
+            <Link to="/queryPage">
               <button type="button" className="btn btn-outline-primary me-2">
-                Documentation
+                Query Page
               </button>
             </Link>
           </div>
